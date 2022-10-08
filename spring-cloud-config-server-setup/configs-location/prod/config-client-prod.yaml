@@ -1,6 +1,0 @@
-server:
-  host: localhost
-  port: 8084
-  tls:
-    enabled: true
-    version: 1.3
