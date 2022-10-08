@@ -1,0 +1,6 @@
+{
+  "server.host": "localhost",
+  "server.port": 8084,
+  "server.tls.enabled": true,
+  "server.tls.version": 1.3
+}
