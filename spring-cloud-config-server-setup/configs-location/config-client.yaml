@@ -1,2 +1,3 @@
 server:
-  port: 8181
+  port: 8086
+  host: dev.icazacarlos.io
