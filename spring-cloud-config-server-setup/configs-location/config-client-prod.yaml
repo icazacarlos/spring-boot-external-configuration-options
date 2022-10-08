@@ -1,2 +1,6 @@
 server:
+  host: localhost
   port: 9090
+  tls:
+    enabled: true
+    version: 1.2  
