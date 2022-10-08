@@ -3,4 +3,4 @@ server:
   port: 8084
   tls:
     enabled: true
-    version: 1.2
+    version: 1.3
